@@ -99,6 +99,7 @@ function createIcsSegment(input) {
     endTime.setMilliseconds(0);
 
     const location = parts[3];
+
     const organizer = parts[4];
 
     console.log({
@@ -115,7 +116,7 @@ function createIcsSegment(input) {
     const formatDateToIcs = (dateObj) => {
         return dateObj.toISOString().replace(/[-:.]/g, '').substring(0, 15)
     }
-      
+
     return `BEGIN:VEVENT
 UID:${startTime.toISOString().replace(/[-:.]/g, '')}Z-21@yourapp.com
 DTSTAMP:${startTime.toISOString().replace(/[-:.]/g, '')}Z
@@ -123,7 +124,7 @@ DTSTART;TZID=America/Toronto:${formatDateToIcs(segStart)}
 DTEND;TZID=America/Toronto:${formatDateToIcs(segEnd)}
 RRULE:FREQ=WEEKLY;UNTIL=${formatDateToIcs(end)}59Z;BYDAY=${byday}
 SUMMARY:${summary}
-LOCATION:${location}
+LOCATION:${location.replace(/,/g, '\\,')}
 DESCRIPTION:${parts[2]}
 ORGANIZER;CN=${organizer}:mailto:noreply@example.com
 END:VEVENT
