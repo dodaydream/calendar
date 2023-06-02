@@ -1,3 +1,5 @@
+const { exit } = require('process');
+
 function createIcsSegment(input) {
     const parts = input.split('\t');
 
@@ -8,9 +10,21 @@ function createIcsSegment(input) {
     const summary = parts[0];
 
     const dateStrings = parts[1].split(" - ");
+
+    // date should be in toronto timezone
     const start = new Date(`20${dateStrings[0].split("/").reverse().join("-")}`);
     const end = new Date(`20${dateStrings[1].split("/").reverse().join("-")}`);
 
+    // workaround for timezone
+    start.setHours(24 - 4);
+    start.setMinutes(0);
+
+    // set end to 11:59PM
+    end.setHours(23 - 4);
+    end.setMinutes(59);
+
+    // set timezone to toronto
+    end.setDate(end.getDate() + 1);
 
     console.log(parts[2])
     const regex = /^(\w+)\s(\d{1,2}):(\d{2})(AM|PM)\sto\s(\d{1,2}):(\d{2})(AM|PM)\s(.+)$/i;
