@@ -122,7 +122,7 @@ UID:${startTime.toISOString().replace(/[-:.]/g, '')}Z-21@yourapp.com
 DTSTAMP:${startTime.toISOString().replace(/[-:.]/g, '')}Z
 DTSTART;TZID=America/Toronto:${formatDateToIcs(segStart)}
 DTEND;TZID=America/Toronto:${formatDateToIcs(segEnd)}
-RRULE:FREQ=WEEKLY;UNTIL=${formatDateToIcs(end)}59Z;BYDAY=${byday}
+RRULE:FREQ=WEEKLY;UNTIL=${formatDateToIcs(end)};BYDAY=${byday}
 SUMMARY:${summary}
 LOCATION:${location.replace(/,/g, '\\,')}
 DESCRIPTION:${parts[2]}
