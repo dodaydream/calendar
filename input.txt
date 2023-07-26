@@ -1,22 +1,10 @@
-ACAD-6002-05 Graduate Success Strategies	01/05/23 - 16/06/23	Thursday 01:00PM to 02:00PM OL Lecture	Ol Online, Room ONLINE	S. Gupta
-ACAD-6002-05 Graduate Success Strategies	26/06/23 - 11/08/23	Tuesday 03:00PM to 04:00PM OL Lecture	Ol Online, Room ONLINE	S. Gupta
-DEVL-6024-02 Career Planning	01/05/23 - 16/06/23	Tuesday 10:00PM to 11:00PM Lecture	Falcon House Resid - R1 Bldg, Room R1019	S. Kazmir
-DEVL-6024-02 Career Planning	26/06/23 - 11/08/23	Monday 05:00PM to 06:00PM Lecture	G Building, Room G1001	S. Kazmir
-INFO-6120-01 Databases-Intro	01/05/23 - 16/06/23	Wednesday 05:00PM to 07:00PM Lecture	G Building, Room G1001	M. Dooreleyers
-INFO-6120-01 Databases-Intro	01/05/23 - 16/06/23	Tuesday 08:00PM to 10:00PM Lecture	G Building, Room G1001	M. Dooreleyers
-INFO-6120-01 Databases-Intro	26/06/23 - 11/08/23	Tuesday 05:00PM to 07:00PM Lecture	B Building, Room B1027	M. Dooreleyers
-INFO-6120-01 Databases-Intro	26/06/23 - 11/08/23	Wednesday 05:00PM to 07:00PM Lecture	Falcon House Resid - R1 Bldg, Room R1019	M. Dooreleyers
-INFO-6121-01 Programming-Mobile Development	01/05/23 - 16/06/23	Monday 08:00AM to 10:00AM Lecture	G Building, Room G2001	P. Adjei
-INFO-6121-01 Programming-Mobile Development	01/05/23 - 16/06/23	Friday 07:00PM to 09:00PM Lecture	G Building, Room G2001	P. Adjei
-INFO-6121-01 Programming-Mobile Development	26/06/23 - 11/08/23	Friday 03:00PM to 05:00PM Lecture	G Building, Room G2001	J. Manning
-INFO-6121-01 Programming-Mobile Development	26/06/23 - 11/08/23	Thursday 03:00PM to 05:00PM Lecture	G Building, Room G2001	J. Manning
-INFO-6122-01 Programming JavaScript	01/05/23 - 16/06/23	Monday 05:00PM to 07:00PM Lecture	D Building, Room D3017	A. Eltahawi
-INFO-6122-01 Programming JavaScript	01/05/23 - 16/06/23	Friday 05:00PM to 07:00PM Lecture	A Building, Room A1004	A. Eltahawi
-INFO-6122-01 Programming JavaScript	26/06/23 - 11/08/23	Thursday 07:00PM to 09:00PM Lecture	Falcon House Resid - R1 Bldg, Room R1021	A. Eltahawi
-INFO-6122-01 Programming JavaScript	26/06/23 - 11/08/23	Tuesday 07:00PM to 09:00PM Lecture	G Building, Room G1001	A. Eltahawi
-INFO-6123-01 Web Design	01/05/23 - 16/06/23	Tuesday 12:00PM to 02:00PM Lecture	G Building, Room G2001	W. Roberts
-INFO-6123-01 Web Design	26/06/23 - 11/08/23	Friday 05:00PM to 07:00PM Lecture	G Building, Room G2001	W. Roberts
-INFO-6123-01 Web Design	01/05/23 - 16/06/23	Monday 12:00PM to 01:00PM OL Lecture	Ol Online, Room ONLINE	W. Roberts
-INFO-6123-01 Web Design	26/06/23 - 11/08/23	Monday 02:00PM to 03:00PM OL Lecture	Ol Online, Room ONLINE	W. Roberts
-MGMT-6135-01 Skills for Mgmt Professionals	01/05/23 - 11/08/23	Wednesday 08:00PM to 10:00PM Lecture	B Building, Room B2002	A. Shaikh
-MGMT-6135-01 Skills for Mgmt Professionals	01/05/23 - 11/08/23	TBA OL Lecture	Ol Online, Room ONLINE	A. Shaikh
+COOP-1020-35 Co-op Educ. Employment Prep	11/09/23 - 20/10/23	Wednesday 01:00PM to 02:00PM OL Lecture	Ol Online, Room ONLINE	T. Franklin
+INFO-6124-01 Android App Development 1	05/09/23 - 08/12/23	Tuesday 05:00PM to 08:00PM Lecture	M Building, Room M3043	N. Goyal
+INFO-6124-01 Android App Development 1	05/09/23 - 08/12/23	TBA OL Lecture	Ol Online, Room ONLINE	N. Goyal
+INFO-6125-01 iOS App Development 1	05/09/23 - 08/12/23	Thursday 09:00AM to 11:00AM Lecture	Falcon House Resid - R1 Bldg, Room R1021	A. Classen
+INFO-6125-01 iOS App Development 1	05/09/23 - 08/12/23	TBA OL Lecture	Ol Online, Room ONLINE	A. Classen
+INFO-6126-01 Mobile App UI/UX Design	05/09/23 - 08/12/23	Wednesday 08:00PM to 11:00PM Lecture	M Building, Room M3043	J. St Louis
+INFO-6127-01 Enterprise Mobile Platforms	05/09/23 - 08/12/23	Wednesday 05:00PM to 07:00PM Lecture	B Building, Room B1030	TBA
+INFO-6127-01 Enterprise Mobile Platforms	05/09/23 - 08/12/23	TBA OL Lecture	Ol Online, Room ONLINE	TBA
+INFO-6128-01 Mobile Web Development	05/09/23 - 08/12/23	Friday 05:00PM to 08:00PM Lecture	B Building, Room B1071	M. Hespanhol
+INFO-6129-01 Cross Platform Mobile Dev	05/09/23 - 08/12/23	Monday 06:00PM to 09:00PM Lecture	M Building, Room M3039	M. Hespanhol
