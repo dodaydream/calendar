@@ -1,0 +1,10 @@
+COOP-1020-35 Co-op Educ. Employment Prep	11/09/23 - 20/10/23	Wednesday 01:00PM to 02:00PM OL Lecture	Ol Online, Room ONLINE	T. Franklin
+INFO-6124-01 Android App Development 1	05/09/23 - 08/12/23	Tuesday 05:00PM to 08:00PM Lecture	M Building, Room M3043	N. Goyal
+INFO-6125-01 iOS App Development 1	05/09/23 - 08/12/23	Thursday 09:00AM to 11:00AM Lecture	Falcon House Resid - R1 Bldg, Room R1021	A. Classen
+INFO-6126-01 Mobile App UI/UX Design	05/09/23 - 08/12/23	Wednesday 08:00PM to 11:00PM Lecture	M Building, Room M3043	J. St Louis
+INFO-6127-01 Enterprise Mobile Platforms	05/09/23 - 08/12/23	Friday 03:00PM to 05:00PM Lecture	A Building, Room A1006	T. Plathahath Mathew
+INFO-6128-01 Mobile Web Development	05/09/23 - 08/12/23	Friday 05:00PM to 08:00PM Lecture	B Building, Room B1071	M. Hespanhol
+INFO-6129-01 Cross Platform Mobile Dev	05/09/23 - 08/12/23	Monday 06:00PM to 09:00PM Lecture	M Building, Room M3039	M. Hespanhol
+INFO-6124-01 Android App Development 1	05/09/23 - 08/12/23	TBA OL Lecture	Ol Online, Room ONLINE	N. Goyal
+INFO-6125-01 iOS App Development 1	05/09/23 - 08/12/23	TBA OL Lecture	Ol Online, Room ONLINE	A. Classen
+INFO-6127-01 Enterprise Mobile Platforms	05/09/23 - 08/12/23	TBA OL Lecture	Ol Online, Room ONLINE	T. Plathahath Mathew
