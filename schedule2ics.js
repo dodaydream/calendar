@@ -1,6 +1,7 @@
 const { exit } = require('process');
 
 function createIcsSegment(input) {
+    const TZDIFF = 5;
     const parts = input.split('\t');
 
     if (parts.length < 4) {
@@ -16,11 +17,11 @@ function createIcsSegment(input) {
     const end = new Date(`20${dateStrings[1].split("/").reverse().join("-")}`);
 
     // workaround for timezone
-    start.setHours(24 - 4);
+    start.setHours(24 - TZDIFF);
     start.setMinutes(0);
 
     // set end to 11:59PM
-    end.setHours(23 - 4);
+    end.setHours(23 - TZDIFF);
     end.setMinutes(59);
 
     // set timezone to toronto
@@ -87,7 +88,6 @@ function createIcsSegment(input) {
     const offset = dayMap[weekday] - dayInWeek - 1;
 
     console.log('offst', weekday, dayInWeek, dayMap[weekday], offset)
-
 
     // Create start and end time Date objects
     segStart.addDays(offset);
