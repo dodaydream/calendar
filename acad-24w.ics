@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//Event Calendar//EN
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240101T000000
+SUMMARY:New Year’s Day (Holiday – College closed)
+DESCRIPTION:New Year’s Day (Holiday – College closed)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240102T000000
+SUMMARY:College re-opens
+DESCRIPTION:College re-opens
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240103T000000
+SUMMARY:Orientation Day
+DESCRIPTION:Orientation Day
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240103T000000
+SUMMARY:Start of term
+DESCRIPTION:Start of term
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240104T000000
+SUMMARY:First day of classes
+DESCRIPTION:First day of classes
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240116T000000
+SUMMARY:10th day of term (last day for program withdrawal/course credit application, last day to change enrolment status from full-time to part-time, balance of fees due)
+DESCRIPTION:10th day of term (last day for program withdrawal/course credit application, last day to change enrolment status from full-time to part-time, balance of fees due)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240301T000000
+SUMMARY:Midterm grades (guideline only)
+DESCRIPTION:Midterm grades (guideline only)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240219T000000
+SUMMARY:Family Day (Holiday – College closed)
+DESCRIPTION:Family Day (Holiday – College closed)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240220T000000
+DTEND;TZID=America/Toronto:20240223T000000
+SUMMARY:Study Week
+DESCRIPTION:Study Week
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240318T000000
+SUMMARY:Course Withdrawal Deadline, last day to withdraw from program/courses without academic penalty (May vary: Please see Student Verification Form to confirm withdrawal date for your program)
+DESCRIPTION:Course Withdrawal Deadline, last day to withdraw from program/courses without academic penalty (May vary: Please see Student Verification Form to confirm withdrawal date for your program)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240329T000000
+SUMMARY:Good Friday (Holiday – College closed)
+DESCRIPTION:Good Friday (Holiday – College closed)
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240415T000000
+DTEND;TZID=America/Toronto:20240419T000000
+SUMMARY:Exam Week
+DESCRIPTION:Exam Week
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240420T000000
+SUMMARY:End of term
+DESCRIPTION:End of term
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240420T000000
+SUMMARY:Contingency Day - if necessary the day following the last day of each term will be used as a contingency day
+DESCRIPTION:Contingency Day - if necessary the day following the last day of each term will be used as a contingency day
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Toronto:20240424T000000
+SUMMARY:Final grades and academic standing available on WebAdvisor
+DESCRIPTION:Final grades and academic standing available on WebAdvisor
+END:VEVENT
+
+END:VCALENDAR
